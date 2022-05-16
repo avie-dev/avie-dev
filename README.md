@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avie-dev
+- 👋 Hi, I’m Jonavil Cello Fukai (@avie-dev)
 - Sometimes I code. Sometimes I draw. Sometimes I teach.
 - Most of the times I deal with query, python, Domo & spreadsheet.
 
