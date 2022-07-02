@@ -5,6 +5,7 @@
 avie-dev/avie-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark)](https://github.com/avie-dev/github-profile-trophy)
 
 <a href="https://github.com/avie-dev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" />
