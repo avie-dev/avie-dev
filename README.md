@@ -3,6 +3,7 @@
 - Most of the times I deal with query, python, Domo & spreadsheet.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark&title=MultiLanguage,Repositories,Commits)](https://github.com/avie-dev/avie-dev)
+<h1>⚡ GitHub Stats</h1>
 <a href="https://github.com/avie-dev/avie-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" />
 </a>
