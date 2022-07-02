@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Avie</h1>
-<h3 align="center">I'm a Filipino Engineer in Japan</h3>
+<h1 align="center">Hi 👋, I'm Avie:cherry_blossom:</h1>
+<h3 align="center">I'm a Filipino Engineer in Japan 🇵🇭:jp:</h3>
 
 <h2>⚡ Trophies:</h2>
 
