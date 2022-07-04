@@ -1,4 +1,5 @@
 # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p>
+ <p align = "center" ><img src="https://github.com/avie-dev/avie-dev/blob/master/kimono%20girl.png?raw" width="200"/></p>
 
 #### About Me
 <hr />
