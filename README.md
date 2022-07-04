@@ -1,5 +1,14 @@
 # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p>
-### <p align = "center" >I'm a Filipino Engineer in Japan 🇵🇭:jp: </p>
+
+#### About Me
+<hr />
+<ul>
+  <li> I'm a Filipino Engineer in Japan 🇵🇭:jp: 
+  <li> I love learning and teaching Japanese Language </li>
+  <li> I also love talking to people </li>
+  <li> An Engineer for 8 years </li>
+  <li> Now studying system design and management</li>  
+</ul>  
 
 #### Tech Stack
 <hr/>
@@ -40,9 +49,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark&title=MultiLanguage,Repositories,Commits,PullRequest,Followers)](https://github.com/avie-dev/avie-dev)
 
-
-<a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" /></a>
-<a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avie-dev&layout=compact&theme=radical"/></a>
+<p>
+  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" /></a>
+  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avie-dev&layout=compact&theme=radical" /></a>
+</p>
 
 #### Twitter
 <hr/>
