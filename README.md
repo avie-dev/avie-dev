@@ -4,10 +4,11 @@
 <hr />
 <ul>
   <li> I'm a Filipino Engineer in Japan 🇵🇭:jp: 
-  <li> I love learning and teaching Japanese Language </li>
-  <li> I also love talking to people </li>
   <li> An Engineer for 8 years </li>
   <li> Now studying system design and management</li>  
+  <li> Hobby ① Learning and teaching Japanese Language </li>
+  <li> Hobby ② Talking to people </li>
+  <li> Hobby ③ Drawing, reading manga and watching anime</li>  
 </ul>  
 
 #### Tech Stack
