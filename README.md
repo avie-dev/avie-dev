@@ -1,33 +1,60 @@
-<h1 align="center">Hi 👋, I'm Avie:cherry_blossom:</h1>
-<h3 align="center">I'm a Filipino Engineer in Japan 🇵🇭:jp:</h3>
+# <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p>
 
-<h2>:small_blue_diamond: Trophies:</h2>
+#### About Me
+<hr />
+<ul>
+  <li> I'm a Filipino Engineer in Japan 🇵🇭:jp: 
+  <li> An Engineer for 8 years </li>
+  <li> Now studying system design and management</li>  
+  <li> Hobby ① Learning and teaching Japanese Language </li>
+  <li> Hobby ② Talking to people </li>
+  <li> Hobby ③ Drawing, reading manga and watching anime</li>  
+</ul>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark&title=MultiLanguage,Repositories,Commits)](https://github.com/avie-dev/avie-dev)
-
-<h2 align="left">:small_blue_diamond: Languages and Tools:</h2>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-<h2>:small_blue_diamond: GitHub Stats: </h1>
-<a href="https://github.com/avie-dev/avie-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/avie-dev/avie-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avie-dev&layout=compact&theme=radical" />
-</a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avie-dev&label=Profile%20views&color=0e75b6&style=flat" alt="avie-dev" /> </p>
-
-<h2 align="left">:small_blue_diamond: Twitter:</h2>
-<p align="left"> <a href="https://twitter.com/aviedev" target="blank"><img src="https://img.shields.io/twitter/follow/aviedev?logo=twitter&style=for-the-badge" alt="aviedev" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aviedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aviedev" height="30" width="40" /></a>
+#### Tech Stack
+<hr/>
+<p> <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+  <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+  <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+  <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+  <img src="https://img.shields.io/badge/-CakePHP-D3DC43.svg?logo=cakephp&style=flat">
+  <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
+  <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
+  <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat">  
+  <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
+  <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat">  
+  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+  <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+  <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
+  <img src="https://img.shields.io/badge/-Emacs-EEE.svg?logo=spacemacs&style=flat">
+  <img src="https://img.shields.io/badge/-Atom-66595C.svg?logo=atom&style=flat">
+  <img src="https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat">
+  <img src="https://img.shields.io/badge/-intellij%20IDEA-000.svg?logo=intellij-idea&style=flat">
+  <img src="https://img.shields.io/badge/-Apache-D22128.svg?logo=apache&style=flat">
+  <img src="https://img.shields.io/badge/-Nginx-bfcfcf.svg?logo=nginx&style=flat">  
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&style=flat">  
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=flat">
 </p>
 
 
 
+#### GitHub Stats 
+<hr/>
 
-<!---
-avie-dev/avie-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avie-dev&label=Profile%20views&color=0e75b6&style=flat" alt="avie-dev" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark&title=MultiLanguage,Repositories,Commits,PullRequest,Followers)](https://github.com/avie-dev/avie-dev)
+
+<p>
+  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" /></a>
+  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avie-dev&layout=compact&theme=radical" /></a>
+</p>
+
+#### Twitter
+<hr/>
+<p align="left"> <a href="https://twitter.com/aviedev" target="blank"><img src="https://img.shields.io/twitter/follow/aviedev?logo=twitter&style=for-the-badge" alt="aviedev" /></a> </p>
