@@ -5,7 +5,7 @@
 <hr />
 <ul>
   <li> I'm a Filipino Engineer in Japan 🇵🇭:jp: 
-  <li> An Engineer for 8 years </li>
+  <li> I'm a Back-end/BI/Data Engineer by profession, but I also like to explore front-end stuff as a hobby.</li>
   <li> Now studying system design and management</li>  
   <li> Hobby ① Learning and teaching Japanese Language </li>
   <li> Hobby ② Talking to people </li>
