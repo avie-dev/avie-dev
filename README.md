@@ -10,7 +10,7 @@
   <li> Hobby ① Learning and teaching Japanese Language </li>
   <li> Hobby ② Talking to people </li>
   <li> Hobby ③ Drawing, reading manga and watching anime</li>  
-  <li> Srating to learn about open-source </li>
+  <li> Starting to learn about open-source </li>
 </ul>  
 
 #### Tech Stack
