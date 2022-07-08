@@ -48,8 +48,6 @@
 #### GitHub Stats 
 <hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avie-dev&label=Profile%20views&color=0e75b6&style=flat" alt="avie-dev" /> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark&title=MultiLanguage,Repositories,Commits,PullRequest,Followers)](https://github.com/avie-dev/avie-dev)
 
 <p>
