@@ -44,7 +44,7 @@
 </p>
 
 
-
+<!---
 #### GitHub Stats 
 <hr/>
 
@@ -57,4 +57,4 @@
 
 #### Twitter
 <hr/>
-<p align="left"> <a href="https://twitter.com/aviedev" target="blank"><img src="https://img.shields.io/twitter/follow/aviedev?logo=twitter&style=for-the-badge" alt="aviedev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aviedev" target="blank"><img src="https://img.shields.io/twitter/follow/aviedev?logo=twitter&style=for-the-badge" alt="aviedev" /></a> </p> -->
