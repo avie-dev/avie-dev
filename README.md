@@ -38,6 +38,8 @@ Tech Stack
     <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">    
     <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
     <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">    
+     <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat">   
     <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
     <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
     <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
@@ -47,8 +49,6 @@ Tech Stack
     <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat">  
     <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat">  
-    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
     <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
     <img src="https://img.shields.io/badge/-Vim-019733.svg?logo=vim&style=flat">
