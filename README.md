@@ -25,8 +25,7 @@ Tech Stack
      </li>  
      <li> Hobbies:
         <ul> 
-          <li> Learning and teaching Japanese Language </li>
-          <li> Talking to people  </li>
+          <li> Learning, teaching Japanese Language and talking to people</li>
           <li> Drawing, reading manga and watching anime </li>
           <li> Web Design </li>
         </ul>
