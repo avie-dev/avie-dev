@@ -16,8 +16,13 @@ Tech Stack
    <ul>
      <li> I'm Avie. I'm a Filipino working as an Engineer in Japan for 8 years 🇵🇭:jp: 
      <li> I'm a Back-end/BI/Data Engineer by profession, but I also like to explore front-end stuff as a hobby.</li>
-     <li> Now studying system design and management and starting to learn about open-source</li>  
-     <li> Hobbies: ① Learning and teaching Japanese Language | ② Talking to people | ③ Drawing, reading manga and watching anime</li>  
+     <li> Now studying: System design and management and starting to learn about open-source</li>  
+     <li> Hobbies:
+        <ul> 
+          <li> Learning and teaching Japanese Language </li>
+          <li> Talking to people  </li>
+          <li> Drawing, reading manga and watching anime </li>
+     </li>  
    </ul> 
 </td>
 <td>
