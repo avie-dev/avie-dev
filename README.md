@@ -14,14 +14,16 @@ Tech Stack
 <tr>
  <td width="70%">
    <ul>
-     <li> I'm Avie. I'm a Filipino working as an Engineer in Japan for 8 years 🇵🇭:jp: 
-     <li> I'm a Back-end/BI/Data Engineer by profession, but I also like to explore front-end stuff as a hobby.</li>
+     <li> Hi 👋, I'm Avie:cherry_blossom: </li>
+     <li> A Filipino working as an Engineer based in Japan 🇵🇭:jp: 
+     <li> Back-end/BI/Data Engineer by profession.</li>
      <li> Now studying: System design and management and starting to learn about open-source</li>  
      <li> Hobbies:
         <ul> 
           <li> Learning and teaching Japanese Language </li>
           <li> Talking to people  </li>
           <li> Drawing, reading manga and watching anime </li>
+          <li> Web Design </li>
      </li>  
    </ul> 
 </td>
