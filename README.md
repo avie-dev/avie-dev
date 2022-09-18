@@ -30,6 +30,8 @@ Tech Stack
           <li> Learning, teaching Japanese Language and talking to people</li>
           <li> Drawing, reading manga and watching anime </li>
           <li> Web Design </li>
+          <li> Hosting Twitter Spaces </li>
+          <li> OpenSource </li>
         </ul>
      </li>  
    </ul> 
