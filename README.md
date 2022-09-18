@@ -17,10 +17,12 @@ Tech Stack
      <li> Hi 👋, I'm Avie:cherry_blossom: </li>
      <li> A Filipino working as an Engineer based in Japan 🇵🇭:jp: 
      <li> 8 years experience as a Back-end/BI/Data Engineer</li>
+     <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
      <li> Now studying:   
         <ul> 
           <li> System design and management </li>   
-          <li> Starting to learn about open-source </li>            
+          <li> Digital Illustration </li> 
+          <li> Dota2 </li> 
         </ul>          
      </li>  
      <li> Hobbies:
@@ -37,7 +39,7 @@ Tech Stack
     <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">    
     <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
     <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=flat">    
-     <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&style=flat">   
     <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
     <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
