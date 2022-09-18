@@ -15,7 +15,7 @@ Tech Stack
  <td width="70%">
    <ul>
      <li> Hi 👋, I'm Avie:cherry_blossom: </li>
-     <li> A Filipino working as an Engineer based in Japan 🇵🇭:jp: 
+     <li> A Filipino engineer working in Japan 🇵🇭:jp: 
      <li> 8 years experience as a Back-end/BI/Data Engineer</li>
      <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
      <li> Now studying:   
