@@ -65,6 +65,7 @@ Tech Stack
 </tr>
 </table>
 
+[![@aviedev's Holopin board](https://holopin.io/api/user/board?user=aviedev)](https://holopin.io/@aviedev)
 
 <!---
 #### GitHub Stats 
