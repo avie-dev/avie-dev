@@ -22,7 +22,6 @@ Tech Stack
         <ul> 
           <li> System design and management </li>   
           <li> Digital Illustration </li> 
-          <li> Dota2 </li> 
         </ul>          
      </li>  
      <li> Hobbies:
