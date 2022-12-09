@@ -18,9 +18,10 @@ Tech Stack
      <li> A Filipino engineer working in Japan 🇵🇭:jp: 
      <li> 8 years experience as a Back-end/BI/Data Engineer</li>
      <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
+     <li> I'm a community manager at 4C (https://www.4c.rocks/) </li>
      <li> Now studying:   
         <ul> 
-          <li> System design and management </li>   
+          <li> System design </li>   
           <li> Digital Illustration </li> 
         </ul>          
      </li>  
