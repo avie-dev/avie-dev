@@ -1,31 +1,27 @@
 <!-- # <p align = "center" >Hi 👋, I'm Avie:cherry_blossom: </p> -->
- <p align = "center" ><img align="center"  src="https://github.com/avie-dev/avie-dev/blob/master/readme_banner.png?raw" /></p>
+<p align = "center" ><img align="center"  src="https://github.com/avie-dev/avie-dev/blob/master/readme_banner.png?raw" /></p>
 
 <table>
-<tr>
- <th>
- About Me
- </th>
-<th>
-Tech Stack
-</th>
-</tr>
+ <tr>
+  <th>About Me</th>
+ <th>Tech Stack</th>
+ </tr>
 
-<tr>
- <td width="70%">
-   <ul>
-     <li> Hi 👋, I'm Avie:cherry_blossom: </li>
-     <li> A Filipino engineer working in Japan 🇵🇭:jp: 
-     <li> 8 years experience as a Back-end/BI/Data Engineer</li>
-     <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
-     <li> I'm a community manager at 4C (https://www.4c.rocks/) </li>
-     <li> Now studying:   
+ <tr>
+  <td width="70%">
+    <ul>
+      <li> Hi 👋, I'm Avie:cherry_blossom: </li>
+      <li> A Filipino engineer working in Japan 🇵🇭:jp: 
+      <li> 8 years experience as a Back-end/BI/Data Engineer</li>
+      <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
+      <li> I'm a community manager at 4C (https://www.4c.rocks/) </li>
+      <li> Now studying:   
         <ul> 
           <li> System design </li>   
           <li> Digital Illustration </li> 
         </ul>          
-     </li>  
-     <li> Hobbies:
+      </li>  
+      <li> Hobbies:
         <ul> 
           <li> Learning, teaching Japanese Language and talking to people</li>
           <li> Drawing, reading manga and watching anime </li>
@@ -35,8 +31,8 @@ Tech Stack
         </ul>
      </li>  
    </ul> 
-</td>
-<td>
+ </td>
+ <td>
     <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
     <img src="https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat">    
     <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat">
@@ -62,20 +58,5 @@ Tech Stack
     <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white&style=flat">  
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&style=flat">
   </td>
-</tr>
+ </tr>
 </table>
-
-<!---
-#### GitHub Stats 
-<hr/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=avie-dev&theme=onedark&title=MultiLanguage,Repositories,Commits,PullRequest,Followers)](https://github.com/avie-dev/avie-dev)
-
-<p>
-  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=avie-dev&show_icons=true&theme=radical" /></a>
-  <a href="https://github.com/avie-dev/avie-dev"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avie-dev&layout=compact&theme=radical" /></a>
-</p>
-
-#### Twitter
-<hr/>
-<p align="left"> <a href="https://twitter.com/aviedev" target="blank"><img src="https://img.shields.io/twitter/follow/aviedev?logo=twitter&style=for-the-badge" alt="aviedev" /></a> </p> -->
