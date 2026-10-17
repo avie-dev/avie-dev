@@ -10,8 +10,8 @@
  <tr>
   <td width="70%">
     <ul>
-      <li> Hi 👋, I'm Avie:cherry_blossom: </li>
-      <li> A Filipino Technical PM working in Japan 🇵🇭:jp: 
+      <li> Hi 👋, I'm Avie</li>
+      <li> A Filipino Technical PM working in Japan </li>
       <li> 8 years experience as a Back-end/BI/Data Engineer</li>
       <li> 3 years experience Offshore Management</li>    
       <li> Currently on my first year as Project Manager with 40 member project</li>         
