@@ -11,8 +11,10 @@
   <td width="70%">
     <ul>
       <li> Hi 👋, I'm Avie:cherry_blossom: </li>
-      <li> A Filipino engineer working in Japan 🇵🇭:jp: 
+      <li> A Filipino Technical PM working in Japan 🇵🇭:jp: 
       <li> 8 years experience as a Back-end/BI/Data Engineer</li>
+      <li> 3 years experience Offshore Management</li>    
+      <li> Currently on my first year as Project Manager with 40 member project</li>         
       <li> I'm a community leader at Open Source Software PH (https://ossph.org/)</li>
       <li> I'm a community manager at 4C (https://www.4c.rocks/) </li>
       <li> Now studying:   
